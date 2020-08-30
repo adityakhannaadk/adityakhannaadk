@@ -44,5 +44,5 @@ The first website was http://symbolics.com/.
 _________________________________________________________________________________________________________________________________________________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhannaadk&layout=compact)](https://github.com/adityakhannaadk/github-readme-stats)
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityakhannaadk&layout=compact)](https://github.com/adityakhannaadk/github-readme-stats)
+
 
