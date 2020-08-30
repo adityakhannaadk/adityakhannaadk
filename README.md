@@ -35,6 +35,9 @@ Basically I'm Aditya.
 
 I like algorithm AI puzzle physic code things. 
 
-Thank.
+Thanks for reading this  btw. 
+
+~Fun~ fact
+The first website was http://symbolics.com/.
 
 
