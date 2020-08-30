@@ -1,5 +1,5 @@
 <h1 align="center">Hello human, I'm Aditya </h1>
-<h3 align="center">I like physic algorithm AI puzzle quantum tings. Also linux is good.</h3>
+<h3 align="center">I like physic algorithm AI puzzle quantum stuffs. Also Linux is good.</h3>
 <p align="left"> <img src="https://media.discordapp.net/attachments/518455361808891904/749706944511738058/banner.png?width=1090&height=194" alt="adityakhannaadk" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakhannaadk" alt="adityakhannaadk" /> </p>
 
