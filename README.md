@@ -5,8 +5,8 @@
 
 Basically I'm Aditya. 
 
-I like algorithm puzzle physic code things. 
-
-Thank you for reading this now go away.
+I like algorithm AI puzzle physic code things. 
 
 Thank.
+
+m. 
