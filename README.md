@@ -41,4 +41,8 @@ Thanks for reading this  btw.
 #### ~Fun~ fact: 
 The first website was http://symbolics.com/.
 
+_________________________________________________________________________________________________________________________________________________
+
+
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityakhannaadk)](https://github.com/adityakhannaadk/github-readme-stats)
 
