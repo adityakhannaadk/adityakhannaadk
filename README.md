@@ -1,6 +1,6 @@
 ### Hi there 
 
 
-![Banner](banner.png)
+![Pic](pict.png)
 
 Basically I'm Aditya. 
