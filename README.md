@@ -37,7 +37,7 @@ I like algorithm AI puzzle physic code things.
 
 Thanks for reading this  btw. 
 
-~Fun~ fact
+#### ~Fun~ fact: 
 The first website was http://symbolics.com/.
 
 
